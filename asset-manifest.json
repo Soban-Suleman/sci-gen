@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "./static/css/main.dd387185.css",
+    "main.js": "./static/js/main.2954ed30.js",
+    "static/media/bg.mp4": "./static/media/bg.3e146665844e3f6ce90b.mp4",
+    "static/media/earth.svg": "./static/media/earth.160b58d384a08bc1e1339b0e237c7c13.svg",
+    "static/media/faceimg.svg": "./static/media/faceimg.cad2895686b786c7a5c0ac21d1b450f6.svg",
+    "static/media/dct.svg": "./static/media/dct.3d90a17dfcc406e9e47c8e4aa809e3fe.svg",
+    "static/media/food.svg": "./static/media/food.417a161b34ec76e691844e7e5375b64a.svg",
+    "static/media/oil.svg": "./static/media/oil.125cc6639b5ea7109da0800ead961a6d.svg",
+    "static/media/Poppins-Regular.ttf": "./static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "./static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-Bold.ttf": "./static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/doctor.svg": "./static/media/doctor.4100b4bd642c4e2e3285bfa800219c02.svg",
+    "static/media/hands.svg": "./static/media/hands.1b8c041dc98ff88ab01b230f6fd827de.svg",
+    "static/media/table.svg": "./static/media/table.f6ef7e5baeb937ef78395a1b7c09830e.svg",
+    "static/media/logo.svg": "./static/media/logo.f9fe7f103a873dcf98ff8e7d6abeb338.svg",
+    "index.html": "./index.html",
+    "static/media/twitter.svg": "./static/media/twitter.c6e3ed7c8c663535c1643cb221148157.svg",
+    "static/media/btn.svg": "./static/media/btn.861cbcc01e572c60a23f76a8b7f2a278.svg",
+    "static/media/linkid.svg": "./static/media/linkid.44bdc27574ca7ea128e7d8d013ac8a8a.svg",
+    "static/media/arrow.svg": "./static/media/arrow.b071764cf267689562e4afbcdfc88a35.svg",
+    "static/media/facebookicon.svg": "./static/media/facebookicon.e1bb60014259849df4400fa7f8451f24.svg",
+    "main.dd387185.css.map": "./static/css/main.dd387185.css.map",
+    "main.2954ed30.js.map": "./static/js/main.2954ed30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd387185.css",
+    "static/js/main.2954ed30.js"
+  ]
+}
